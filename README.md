@@ -17,3 +17,5 @@ An online marketplace application with seller accounts, product search and sugge
    - To run the application for development, run ```  npm run development  ``` or ``` yarn development ```
 5. Open [localhost:3000](http://localhost:3000/) in the browser
 ---- 
+
+To make successful orders, please use test credit cards provided by Stripe. https://stripe.com/docs/testing
